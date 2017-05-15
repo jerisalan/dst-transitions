@@ -1,0 +1,27 @@
+{
+  "name": "dst-transitions",
+  "version": "1.0.0",
+  "description": "A library to determine the daylight savings transition time for any corresponding year",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerisalan/dst-transitions.git"
+  },
+  "keywords": [
+    "Daylight",
+    "Savings",
+    "Time",
+    "DST",
+    "Transition",
+    "Timezone"
+  ],
+  "author": "Jeris Alan <alan.jeris@gmail.com> (https://jerisalan.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jerisalan/dst-transitions/issues"
+  },
+  "homepage": "https://github.com/jerisalan/dst-transitions#readme"
+}
