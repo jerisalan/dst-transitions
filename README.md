@@ -35,4 +35,4 @@ If you find any issues, please add one in the issues tab.
 
 ## Release History
 * 1.0.0 Initial Release
-* 1.0.1 Added unit tests and examples
+* 1.1.0 Added unit tests and examples
