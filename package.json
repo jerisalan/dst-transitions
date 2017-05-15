@@ -4,7 +4,7 @@
   "description": "A library to determine the daylight savings transition time for any corresponding year",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha --reporter spec"
   },
   "repository": {
     "type": "git",
@@ -23,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/jerisalan/dst-transitions/issues"
   },
-  "homepage": "https://github.com/jerisalan/dst-transitions#readme"
+  "homepage": "https://github.com/jerisalan/dst-transitions#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.4.1"
+  }
 }
